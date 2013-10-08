@@ -3,4 +3,17 @@
   <groupId>org.kelvinst.xml2json</groupId>
   <artifactId>xml2json</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.google.code.gson</groupId>
+  		<artifactId>gson</artifactId>
+  		<version>2.2.4</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.11</version>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
 </project>
