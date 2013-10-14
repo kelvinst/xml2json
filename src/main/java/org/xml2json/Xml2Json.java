@@ -7,7 +7,9 @@ import com.google.gson.JsonObject;
 public class Xml2Json {
 
 	public static JsonObject convert(Element element) {
-		return null;
+		JsonObject result = new JsonObject();
+		
+		return result;
 	};
 	
 }
